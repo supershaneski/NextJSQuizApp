@@ -1,0 +1,18 @@
+{
+  "category": "History",
+  "question": "The Egyptian pharaoh Amenhotep IV changed his name to what?",
+  "answers": [
+    {
+      "text": "Nefertiti",
+      "isCorrect": false
+    },
+    {
+      "text": "Tutankhamun",
+      "isCorrect": false
+    },
+    {
+      "text": "Akhenaten",
+      "isCorrect": true
+    }
+  ]
+}

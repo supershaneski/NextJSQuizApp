@@ -1,0 +1,18 @@
+{
+  "category": "General Knowledge",
+  "question": "What is the National Dish of Fiji?",
+  "answers": [
+    {
+      "text": "Kokoda",
+      "isCorrect": true
+    },
+    {
+      "text": "Poke bowl",
+      "isCorrect": false
+    },
+    {
+      "text": "Chirashi",
+      "isCorrect": false
+    }
+  ]
+}

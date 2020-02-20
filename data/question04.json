@@ -1,0 +1,18 @@
+{
+  "category": "Current Events",
+  "question": "Who is the current President of the USA?",
+  "answers": [
+    {
+      "text": "Boris Johnson",
+      "isCorrect": false
+    },
+    {
+      "text": "Rodrigo Duterte",
+      "isCorrect": false
+    },
+    {
+      "text": "Donald Trump",
+      "isCorrect": true
+    }
+  ]
+}

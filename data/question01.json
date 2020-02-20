@@ -1,0 +1,18 @@
+{
+  "category": "General Knowledge",
+  "question": "What is the Japanese of Apple?",
+  "answers": [
+    {
+      "text": "Ringo",
+      "isCorrect": true
+    },
+    {
+      "text": "Mikan",
+      "isCorrect": false
+    },
+    {
+      "text": "Daikon",
+      "isCorrect": false
+    }
+  ]
+}

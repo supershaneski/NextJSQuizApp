@@ -1,0 +1,18 @@
+{
+  "category": "General Knowledge",
+  "question": "According to the founding myth of Rome, who is the city's first king?",
+  "answers": [
+    {
+      "text": "Romulus",
+      "isCorrect": true
+    },
+    {
+      "text": "Remus",
+      "isCorrect": false
+    },
+    {
+      "text": "Ronald",
+      "isCorrect": false
+    }
+  ]
+}

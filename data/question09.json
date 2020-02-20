@@ -1,0 +1,18 @@
+{
+  "category": "History",
+  "question": "Who is the French Emperor during the Battle of Austerlitz?",
+  "answers": [
+    {
+      "text": "Louis XVI",
+      "isCorrect": false
+    },
+    {
+      "text": "Napoleon Bonaparte",
+      "isCorrect": true
+    },
+    {
+      "text": "Charles de Gaulle",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "General Knowledge",
+  "question": "Who is the first woman to win a Noble Prize?",
+  "answers": [
+    {
+      "text": "Joan of Arc",
+      "isCorrect": false
+    },
+    {
+      "text": "Hillary Clinton",
+      "isCorrect": false
+    },
+    {
+      "text": "Marie Curie",
+      "isCorrect": true
+    }
+  ]
+}

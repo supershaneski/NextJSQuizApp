@@ -1,0 +1,18 @@
+{
+  "category": "Geography",
+  "question": "What is the name of the body of water on the West side of Japan?",
+  "answers": [
+    {
+      "text": "Pacific Ocean",
+      "isCorrect": false
+    },
+    {
+      "text": "Sea of Japan",
+      "isCorrect": true
+    },
+    {
+      "text": "Philippine Sea",
+      "isCorrect": false
+    }
+  ]
+}

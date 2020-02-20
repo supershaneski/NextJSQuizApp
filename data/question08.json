@@ -1,0 +1,18 @@
+{
+  "category": "General Knowledge",
+  "question": "Who is the 33rd President of the USA?",
+  "answers": [
+    {
+      "text": "Harry Truman",
+      "isCorrect": true
+    },
+    {
+      "text": "George Washington",
+      "isCorrect": false
+    },
+    {
+      "text": "George Bush",
+      "isCorrect": false
+    }
+  ]
+}

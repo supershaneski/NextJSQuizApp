@@ -1,0 +1,18 @@
+{
+  "category": "Geography",
+  "question": "What is the capital of Japan?",
+  "answers": [
+    {
+      "text": "Sapporo",
+      "isCorrect": false
+    },
+    {
+      "text": "Osaka",
+      "isCorrect": false
+    },
+    {
+      "text": "Tokyo",
+      "isCorrect": true
+    }
+  ]
+}

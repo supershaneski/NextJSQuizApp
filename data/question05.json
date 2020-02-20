@@ -1,0 +1,18 @@
+{
+  "category": "Astronomy",
+  "question": "What is the third planet in the Solar System?",
+  "answers": [
+    {
+      "text": "Mars",
+      "isCorrect": false
+    },
+    {
+      "text": "Earth",
+      "isCorrect": true
+    },
+    {
+      "text": "Venus",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "History",
+  "question": "Who was the French Queen that was guillotined during the French Revolution?",
+  "answers": [
+    {
+      "text": "Elizabeth",
+      "isCorrect": false
+    },
+    {
+      "text": "Marie Antoniette",
+      "isCorrect": true
+    },
+    {
+      "text": "Catherine",
+      "isCorrect": false
+    }
+  ]
+}
